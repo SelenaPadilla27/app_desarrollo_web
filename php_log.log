@@ -1,0 +1,8 @@
+
+[30-Jul-2022 06:03:56 Europe/Berlin] Incio de APP!
+[30-Jul-2022 06:03:56 Europe/Berlin] App::_contructor-> Se inicia constructor ruteador
+[30-Jul-2022 06:03:56 Europe/Berlin] App::getUrl-> se obtiene url
+[30-Jul-2022 06:03:56 Europe/Berlin] App::_contructor-> Se direcciona al controlador LoginController
+[30-Jul-2022 06:03:56 Europe/Berlin] LoginController::_construct-> Se inicia constructor del controlador LoginController
+[30-Jul-2022 06:03:56 Europe/Berlin] App::_contructor-> Se llama al metodo index
+[30-Jul-2022 06:03:56 Europe/Berlin] Controller::renderView -> Se carga vista login/index
